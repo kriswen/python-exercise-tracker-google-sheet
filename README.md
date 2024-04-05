@@ -8,13 +8,6 @@ This project is an exercise tracker that allows users to input their exercises a
 - `requests` library (install via `pip install requests`)
 - `dotenv` library (install via `pip install python-dotenv`)
 
-## Installation
-1. Clone the repository:
-````
-git clone <repository_url>
-cd exercise-tracker
-````
-
 2. Create a `.env` file in the root directory and add your API keys:
 ````
 APP_ID=your_nutritionix_app_id
